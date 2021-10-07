@@ -1,4 +1,0 @@
-class Lighter
-{
-public static void fire(boolean )
-}
